@@ -1,3 +1,3 @@
 # Movie-Ratings-App
 
-![image](https://user-images.githubusercontent.com/104497104/210959471-decbcaae-9c15-47df-972f-4232e2732a3f.png)
+![image](https://user-images.githubusercontent.com/104497104/210959653-4be572c5-d78a-4d76-880c-58552ae6b76d.png)
